@@ -1,5 +1,35 @@
 # Personal-collection
 
+    React清单字节
+    https://github.com/ConardLi/fe-roadmap
+    《Vue3.2 DOM diff流程分析之一：props和attrs的初始化和更新》
+    https://juejin.cn/post/7051823256487067656
+    分析vue初始化和更新props和attr，了解它们是如何工作的，可以帮助我们在vue开发的过程中更加有效的使用props和attrs。
+
+
+    /** 1.html文件加载顺序 */
+    //  echarts 图表抽象 哪些
+    //  websocket和http的区别
+    /** 2.event Loop */
+    /** 3.浏览器缓存 */
+    /** 4.跨域 */
+    /** 5.登录的过程 说仔细 */
+    /** 6.cookie哪里不好 */
+    /** 7.echarts有哪些抽象属性帮助工作 */
+    /** 8.webrtc服务器 */
+    /** 9.重绘重排 怎么避免 */
+
+    先做了一个基础的笔试题，
+    1.数据存在硬盘和存在内存的区别？
+    2.说一下vuex的跨页面调用？
+    3.说一下换肤怎么实现？
+    4.怎么对代码规范进行要求的？
+    5.有没有做自动化？
+    6.有自己开发脚手架吗？
+    7.有用过修饰器吗？
+    8.有用过mixin吗？
+    9.既然可以直接封装函数，为什么要用mixin？
+
     https://juejin.cn/post/6844903588032937998
     https://www.imqianduan.com/nodejs/507.html
     http://doc.canglaoshi.org/#
