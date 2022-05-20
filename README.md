@@ -1,5 +1,405 @@
 # Personal-collection
 
+    https://juejin.cn/post/6844903588032937998
+    https://www.imqianduan.com/nodejs/507.html
+    http://doc.canglaoshi.org/#
+    https://juejin.cn/post/6883005460207665165
+    https://www.runoob.com/redis/redis-install.html
+    https://segmentfault.com/a/1190000015882650
+    node技术栈https://www.nodejs.red/#/
+    HTTP 协议学习笔记
+    https://github.com/qufei1993/http-protocol
+    https://nqdeng.github.io/7-days-nodejs/#1
+    node示例
+    https://www.oschina.net/translate/best-nodejs-tutorial-with-examples
+    swagger
+    https://www.digitalocean.com/community/tutorials/speed-up-your-restful-api-development-in-node-js-with-swagger
+    node.js中的socket.io入门实例
+    https://www.jb51.net/article/49394.htm
+    Node.js Stream - 基础篇
+    https://tech.meituan.com/2016/07/08/stream-basics.html
+    http://www.pwelder.com/article/100716.html
+    https://github.com/sindresorhus/awesome-nodejs
+    node实现基于token的身份验证
+    https://juejin.cn/post/6844903588032937998
+    
+    https://excalidraw.com/
+    是时候给大家推荐一下我珍藏的宝藏画板了
+    最近也在看剑指Offer，期待star
+    https://webbj97.github.io/fe-questions/algorithm/
+
+    深入理解 TypeScripthttps://jkchao.github.io/typescript-book-chinese/project/compilationContext.html
+    
+    字节面试必看飞书
+    https://bytedance.feishu.cn/base/app8Ok6k9qafpMkgyRbfgxeEnet?table=tblEnSV2PNAajtWE&view=vewJHSwJVd
+
+    https://ylm4cmaa9q.feishu.cn/docs/doccnJdkh248xpSDAO2pbL7R4Ee
+    来自 霖呆呆 的《大概是全网最详细的Electron ipc 讲解(二)——渲染进程与渲染进程的搭桥牵线》
+    文章链接：https://juejin.cn/post/7078476722223448095/
+    1:webpack的loader和plugin的区别,和有没有开发过loader和plugin
+    2:$nextTick的原理
+    3:有没有开发维护组件库,然后一顿细节
+    4:工程化的理解和实践思路
+
+    src 和 href 区别
+    手写 h 函数实现
+    div 如何渲染
+    webpack 原理
+    css 扇形
+    http https区别
+    栈递归溢出优化 
+    继承  原型打印
+    标记垃圾回收
+    创建 fn 步骤，上下文创建过程
+
+    给你们推荐一个ts刷题仓库 https://github.com/type-challenges/type-challenges
+    如果用vue看vuex
+    https://lxchuan12.gitee.io/vuex
+    如果用koa那么看koa
+    https://lxchuan12.gitee.io/koa
+    如果用react看redux
+    https://lxchuan12.gitee.io/redux
+    如果啥也不用看axios
+    https://lxchuan12.gitee.io/axios
+
+
+    https://regexlearn.com/zh-cn/learn/regex101
+    开发流程 需求评审-技术评审-用例评审-开发-联调-自测-代码review 这些都能说说 光说技术名词有点干
+    闭包有哪些表现形式?
+    1. 返回一个函数。
+    2. 作为函数参数传递
+    3. 在定时器、事件监听、Ajax请求、跨窗口通信、Web Workers或者任何异步中，只要使用了回调函数，实际上就是在使用闭包。
+    4. IIFE(立即执行函数表达式)
+
+    
+    电子书下载https://zh.hk1lib.org/booklist/419543/72e218
+    计算机
+
+    2021年：字节跳动前端面经(已接offer~)
+    https://juejin.cn/post/6990174096554360869
+    TroisJS
+    ✨ ThreeJS + VueJS 3 + ViteJS ⚡
+    https://troisjs.github.io/
+
+    按照这个leetcode https://codetop.cc/home
+    三数之和 二叉树最长路径 路径之和 最大子序列 连续增长数组 接雨水劝退题
+
+    手写 Vue 响应式原理
+    手写 Vue 模板编译原理
+    手写 Vue 组件化机制原理
+    手写 Vue 生命周期原理
+    手写 Vue 虚拟 DOM 和 Diff 算法原理
+    手写 Vue 计算属性、watch等原理
+    手把手剖析Vue2源码 （剖析props、slot、directive...）
+
+    手写Vue-Router中Hash模式和History模式的实现
+    手写动态路由addRoutes原理
+    手写$route及$router实现
+    手写router-link及router-view组件
+    手写多级路由实现原理
+    手写Vue-router中路由钩子原理
+
+    手写state、getters、mutation、actions原理
+    手写vuex中的modules原理及namespaced原理
+    手写Vuex中插件机制 replaceState、subscribe...
+    手写Vuex中辅助函数 mapSate、mapGetters...
+
+    SSR实现原理剖析及使用场景剖析
+    通过Webpack构建Vue项目，实现客户端打包和服务端打包
+    使用koa实现服务端渲染
+    集成Vue-Router及Vuex
+
+    Vue3正式版Composition API组件库开发
+    Vue3正式版中的自定义canvas渲染器
+    Vue3正式版+vuex中的typescript复杂类型推断
+    Vue3正式版中的SSR服务器端渲染
+
+    什么是组件和组件的应用
+    组件的属性和校验
+    组件之间的通信
+    EventBus 应用
+    组件 slot 用法
+
+    从 0 到 1 实现自己的组件库
+    使用 VitePress 搭建组件库文档
+    基于 VueCli4 编写组件测试，Karma、Mocha、Chai
+    实现组件库的按需加载，组件库主题定制化
+    从零封装树形组件
+    从零封装日历组件
+    从零封装表单组件
+    从零封装模态窗口组件
+    从零封装轮播图组件
+    从零封装表格组件
+    从零封装上拉加载和下拉刷新组件
+    从零封装异步加载的省市级联组件
+    组件的单元测试和集成测试
+
+    vue router 的基础应用
+    编程式导航
+    路由的嵌套
+    路由重定向
+    路由守卫
+    路由懒加载
+    路由元信息
+    实现动态权限
+    菜单、按钮及权限认证、登录权限
+
+    SSR 原理和设计理念
+    集成 KOA 实现服务器端渲染
+    webpack 构建 Vue SSR 项目
+    集成路由及代码分割
+    集成 VueSSR 和 Vuex 实现数据同步
+
+    路由懒加载
+    页面预渲染
+    SSR 之 Nuxt 实战
+    Vue 骨架屏
+    Vue-devtools 开发插件
+    Vue 动画原理
+
+    组件N种通信方式
+    自定义指令，v-has按钮级权限、v-lazy实现图片懒加载
+    Vue.extend之Vue组件在线运行器
+    Vue中JSX语法高阶使用
+    Vue中递归组件之菜单权限
+    SSR 之 Nuxt 实战
+    Vue页面预渲染、Vue骨架屏@3
+    Vue3新特性 teleport、suspense应用
+    Vue3中CompositionAPI详解
+    对比Vue3和Vue2中的区别和改进
+
+    手写 Vue3.0 模板编译原理
+    手写 Vue3.0 响应式原理(实现 reactive ref computed effect)
+    手写 Vue3.0 虚拟DOM及组件渲染原理
+    手写 Vue3.0 中生命周期原理及异步渲染原理
+    手写 Vue3.0 中的 DOM-DIFF 算法
+    手写 Vite 工具实现原理及热更新原理
+    手写Vue3中diff算法属性比对及子元素比对流程
+    手写Vue3中最长递增子序列算法
+    手把手剖析Vue3源码
+
+    Vue-cli4 + Vant项目搭建
+    服务器构建 Typescript + Express + Mongodb
+    路由配置及Vuex最佳实践
+    进阶Vue3中逻辑封装及CompositionAPI使用
+    数据获取和 axios 应用拦截器
+    基于JWT的注册登录权限管理
+    公共组件封装
+    上拉刷新、下拉加载、图片懒加载
+    项目布署和上线
+
+    后端 Koa + Mongodb + Redis
+    项目构建流程及最佳实践
+    前后端分离登录权限
+    路由权限控制
+    基于角色的菜单权限及按钮权限
+    Vue 中动态管理路由及 Vuex
+    Vue 中 axios 二次封装
+    Vue 中 websocket 封装(心跳检测，断线重连等)
+    项目打包及上线流程
+
+    通过源码深度剖析40道Vue面试题，再也不必担心面试题不会答了
+    从基础面试 -> 原理剖析 -> 项目优化 一应俱全
+
+    手写 Vue3.0 模板编译原理
+    手写 Vue3.0 响应式原理(实现 reactive ref computed effect)
+    手写 Vue3.0 虚拟DOM及组件渲染原理
+    手写 Vue3.0 中生命周期原理及异步渲染原理
+    手写 Vue3.0 中的 DOM-DIFF 算法
+    手写 Vite2.0 工具实现原理及热更新原理
+    手写Vue3中diff算法属性比对及子元素比对流程
+    手写Vue3中最长递增子序列算法
+
+    webpack课程全面升级为webpack5，包括webpack5的新特性，比如webpack5的模块联邦实现微前端
+    手写更为复杂的webpack插件和loader,比如骨架屏插件、DllPlugin插件等
+    手写 px2rem-loader、style-loader和 css-loader
+    CSS抽象语法树
+
+    Vue3+TS中后台系统
+    Typescript+ReactHooks实现全栈项目
+    持续集成CI/CD实战
+    K8S实战训练营
+    微信电商小程序实战
+    Antv/G6实现思维导图实战
+    可视化监控实战训练营
+    lowcode可视化拖拽组件训练营
+    从零实现脚手架vue-cli实战
+    nestjs基础到实战项目实战
+    Typescript+React17组件库实战
+    Vue3+ts组件库实战
+    前端全链路监控实战训练营
+    uni-app电商实战训练营
+    Egg.js从实战到源码训练营
+    浏览器插件实战训练营
+    Vscode插件开发实战训练营
+    npm私服搭建和npm知识体系训练营
+    电商网站抢购脚本
+    electron视频系统实战训练营
+    nest-serverless-graphql训练营
+
+    react全面升级为React17
+    React路由升级为hooks版本
+    react-redux升级为hooks版本
+    更多的redux中间件 redux-actions reselect redux-persist
+    全新的状态React官方管理库recoil和有限状态机版的xstate
+    Typescript+React17全新组件库
+    全新的umi3实战和手写umi3课程
+    全新的Antdesign4版基于hooks的Form组件
+    有限状态机
+    词法分析和语法分析
+    递归下降算法和上下文无关文法
+    手写babel和babel插件
+    手写JSX到JS的babel转换插件
+    React自定义Hooks实战
+    前端人的健康之道
+    实现px2remLoader
+    从零实现rollup和tree-shaking
+    React17面试题源码级大汇总
+    从零实现create-react-app脚手架
+    从零实现@vue/cli 4.0脚手架
+    浏览器渲染原理和性能优化
+    从零实现Umi3和插件系统
+    webpack5性能优化
+    更多更新详情请看大纲
+
+    「前端面试题」https://www.aliyundrive.com/s/btP8yCRrRVj
+    点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+    
+    js分析
+    https://github.com/sisterAn/blog
+    https://github.com/sisterAn/JavaScript-Algorithms
+    leetcode题解
+    https://space.bilibili.com/697106483/video?tid=0page=1keyword=order=pubdate
+    Smooth（106）
+    https://github.com/18sby/leetcode-js
+    手写
+    https://github.com/qianlongo/fe-handwriting
+    https://github.com/Mayandev/fe-interview-handwrite
+    手写代码题合集
+    https://blog.csdn.net/aria_miazzy/article/details/106240887
+    https://www.i4k.xyz/article/qianyu6200430/109006627
+    https://www.html5iq.com/601cecc83a5920292e6f94ae.html
+    https://segmentfault.com/a/1190000038910420
+    https://github.com/Mayandev/fe-interview-handwrite
+    https://github.com/qianlongo/fe-handwriting
+    https://segmentfault.com/a/1190000040803264
+    https://juejin.cn/post/6968713283884974088
+    https://juejin.cn/post/6946136940164939813
+    手写
+    https://juejin.cn/post/6844903809206976520
+    https://juejin.cn/post/6864378349512065038
+    https://juejin.cn/post/6844903911686406158
+    https://juejin.cn/post/6855129007852093453
+    https://juejin.cn/post/6895676184949227528
+    https://juejin.cn/post/6934500357091360781
+    https://juejin.cn/post/7069805387490263047
+    https://juejin.cn/post/6947842412102287373
+    https://juejin.cn/post/6936913689115099143
+    https://juejin.cn/post/6875152247714480136
+    https://juejin.cn/post/6873513007037546510
+    https://juejin.cn/post/7031322059414175774
+    js
+    https://juejin.cn/post/7022795467821940773
+    https://space.bilibili.com/697106483/video?tid=0page=2keyword=order=pubdate
+
+    源码
+    vue路由源码分析
+    https://www.bilibili.com/video/BV115411o75m?spm_id_from=333.999.0.0
+    vue单元测试
+    https://www.bilibili.com/video/BV1pr4y167G1?spm_id_from=333.999.0.0
+    vuex源码分析
+    https://www.bilibili.com/video/BV1qP4y1w7NJ?p=10&spm_id_from=pageDriver
+    手写vuex源码分析
+    https://www.bilibili.com/video/BV1yE411q7W4?spm_id_from=333.337.search-card.all.click
+    黑马程序员39期web前端-vue生命周期
+    https://www.bilibili.com/video/BV1sb411M7RT?spm_id_from=333.337.search-card.all.click
+    leetcode 题解
+    https://leetcode-cn.com/u/chen-wei-f/
+
+    
+    2021最新前端面试题汇总
+    https://juejin.cn/column/6964717704712290317
+    工作中所遇所见
+    https://juejin.cn/column/7020799477145403406
+    面试——百毒不侵
+    https://juejin.cn/column/6979410414513700878
+
+    音视频
+    WebRTC 示例
+    https://webrtc.github.io/samples/
+    https://www.ffmpeg.org/documentation.html
+    https://www.w3.org/TR/webaudio/
+    音视频
+    参考资料
+    [1]JSMpeg: https://github.com/phoboslab/jsmpeg
+    [2]FFmpeg: https://www.ffmpeg.org/
+    [3]雷霄骅: https://link.juejin.cn/?target=https://blog.csdn.net/leixiaohua1020
+    [4][总结]视音频编解码技术零基础学习方法_雷霄骅(leixiaohua1020)的专栏-CSDN 博客_雷霄骅: https://blog.csdn.net/leixiaohua1020/article/details/18893769
+    [5]Real time communication with WebRTC: https://codelabs.developers.google.com/codelabs/webrtc-web?spm=a2c6h.12873639.0.0.58004925DffaQU
+    [6]李超_慕课网精英讲师: https://www.imooc.com/t/4873493
+    个人相关：
+    雷霄骅：http://blog.csdn.net/leixiaohua1020/
+    简介：雷神，永远的闪耀明星，国内音视频blog第一人
+    卢俊：http://ticktick.blog.51cto.com/
+    简介：直播，FFmpeg，Android音视频
+    xiejiashu：http://blog.csdn.net/xiejiashu/
+    简介：EasyDarwin开源项目作者，音视频，FFmpeg，直播，流媒体技术
+    逆流的鱼yuiop：http://blog.csdn.net/hejjunlin/
+    简介：我的博客，很不幸，也被入选了，惭愧，持续贡献吧
+    取次花丛懒回顾：http://blog.csdn.net/shaqoneal
+    简介：殷汶杰，B站高级工程师,大量H.264编解码相关，当然不限于于此
+    lcyw：http://blog.csdn.net/machh/
+    简介：马成海，近十年一直从事网络视频监控系统的开发，从客户端开发，音视频编解码开发，到后台服务器的开发，以及视频监控系统的架构设计
+    四月是你的谎言：http://windrunnerlihuan.com/
+    简介：Android 多媒体框架
+    陆其明：http://blog.csdn.net/happydeer/article/
+    简介：爱奇艺PC端技术总监，大咖人物，很低调
+    飞翔2017：http://blog.csdn.net/feixiang_john/
+    简介：流媒体，H.264，Codec, HEVC
+    BIGBurning：http://blog.csdn.net/rootusers/
+    简介：WebRTC, FFmpeg
+    凯少：http://blog.csdn.net/dancing_night/article
+    简介：FFmpeg，X264
+    李迟：http://blog.csdn.net/subfate
+    简介：嵌入式开发，音视频
+    技术团队相关：
+    七牛云：http://blog.qiniu.com/
+    观止云：http://blog.sina.com.cn/s/blog_166a2bafd0102y9ft.html
+    声网：http://blog.csdn.net/agora_cloud/
+    UCloud流媒体团队：http://blog.ucloud.cn/
+
+
+    https://github.com/ellerbrock/awesome-koa#examples--boilerplates
+
+    技术深度：有没有对一个技术点深挖过，或者是说自己是某个技术方向的代名词。你的同事想起你就能想起来你的某个技术很牛。跟面试官能侃侃而谈
+    广度: 处理自己负责的工作之前， 是否是上下游的也了解。比如后端技术、CICD、方案设计、竞品分析
+    项目管理：给你5个人，如何做好管理，做好计划安排，预防风险
+    项目理解力：项目的背景，解决了什么问题，面向哪些用户，和竞品分析有哪些亮点，整体架构是什么样的等
+    就问多数据情况下的性能优化方案 还有组件封装想法和注意点
+    
+    代码随想录 树
+    二叉树的遍历方式： 144、145、94、102
+    二叉树的属性：101、104、111、222、110、257、404、512、112
+    二叉树的修改与构造：226、106、654、617
+    求二叉树的属性：700、98、530、501、538
+    二叉树的公共祖先：236、235
+    二叉搜索树的修改与构造：701、450、669、108
+
+    史文强
+    https://github.com/dashnowords
+    每天早晨5点起床
+    https://github.com/ConardLi/30-seconds-of-code-Zh-CN
+    https://github.com/ConardLi/ejpage
+    https://github.com/lydiahallie/javascript-questions
+    http://www.conardli.top/blog/
+    http://www.conardli.top/docs/
+    https://github.com/imaoda/js-front-end-practice
+    内推码：WPB917
+    【实习】投递链接：https://jobs.toutiao.com/s/eJ1wXyh
+    【校招】投递链接：https://jobs.toutiao.com/s/eJJdT2X
+    【社招】投递链接：https://job.toutiao.com/s/eJnkU37
+
+
     js那个字节深入扩展的
     http://www.conardli.top/docs/dataStructure/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91.html
     ConardLi的blog
