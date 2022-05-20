@@ -1,6 +1,126 @@
 # Personal-collection
 
-https://www.jb51.net/list/list_269_1.htm
+    js那个字节深入扩展的
+    http://www.conardli.top/docs/dataStructure/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91.html
+    ConardLi的blog
+    http://www.conardli.top/blog/article/
+    微信winty大佬
+    https://github.com/LuckyWinty/blog
+    我的收藏一些博客文章
+    https://blog.occtai.com/2021/11/22/%E6%94%B6%E8%97%8F/
+    css虾皮那个网站
+    https://csscoco.com/inspiration/#/
+    山月
+    https://shanyue.tech/
+    JS编程技术
+    http://www.codebaoku.com/it-js/it-js-218839.html
+
+    着重问技术项目
+    困难点是什么 什么解决的 技术方案是什么 工具选型是怎么确定的 技术项目收益
+    前端问题：
+    几个主流微前端方式
+    react 
+    常用hooks 
+    React源码有了解么
+    diff算法
+    高阶组建
+    事件循环机制
+    闭包
+    2栏布局 3栏布局
+    flex
+    position属性
+
+    css国内平台交流
+    https://css-tricks.com/
+    https://juejin.cn/post/6844904181627781128
+    霖呆呆的中大厂面试记录及2年前端薪资对比(附赠学习方法)
+    https://juejin.cn/post/6844904151369908232
+    霖呆呆的近期面试128题汇总(含超详细答案) | 掘金技术征文
+    issues-blog
+    1. 获取仓库下所有的 issues 的分页列表
+    https://docs.github.com/en/rest/issues/issues#list-repository-issues
+    2. 获取一个 issues 的所有回复的分页列表
+    https://docs.github.com/en/rest/issues/comments#list-issue-comments
+    JS深入
+    链接: https://pan.baidu.com/s/1nHrnsiNWgvBkjbnPeEaLFA 提取码: p051 
+    --来自百度网盘超级会员v5的分享
+
+    一面
+    自我介绍+基础偏广度考察+手写+简单的项目问题
+    二面
+    原理+深度考察+手写+深挖项目难点
+    三面
+    基本是围绕项目展开+个人离职原因+性格方面
+    
+一二面集合问题
+
+1. addEventListener默认是捕获还是冒泡？
+2. 从输入一个URL地址到浏览器完成渲染的整个过程
+3. Webpack优化
+4. 手写实现一个寄生组合继承
+5. 手写new
+6. apply call bind 手写bind
+7. 举出闭包实际场景运用的例子
+8. Es6的let实现原理
+9. 事件循环相关题目--必考
+10. 浏览器缓存策略是怎样的（强缓存 协商缓存）具体是什么过程？
+11. 浏览器从输入网址到页面展现的整个过程
+12. https加密过程是怎样的
+13. 304是什么意思 一般什么场景出现 强缓存返回什么状态码
+14. http2.0做了哪些改进 3.0呢
+15. css优先级是怎么计算的
+16. position有哪些值，作用分别是什么
+17. flex:1是什么组成的
+18. 垂直水平居中
+19. 聊聊设计模式 在实际工作怎么使用
+20. vue 组件通讯方式有哪些方法
+21. Vue响应式原理
+22. Vue nextTick原理
+23. Vue diff原理
+24. 手写Vue.extend
+25. 路由原理 history和hash两种路由方式的最大区别是什么
+26. ReplaceState和pushState能否触发 popSate事件
+27. 实现一个promise.all 和race
+28. tree shaking是什么，有什么作用，原理是什么 rollup
+29. babel是什么，怎么做到的
+30. webpack工作流程是怎样的
+31. Webpack优化
+32. 是否有写过webpack插件和loader 他们的区别
+33. 渲染合成层是什么
+34. css怎么开启硬件加速(GPU加速)
+35. settimeout 模拟实现 setinterval
+36. 手写发布订阅模式
+37. 手写new 
+38. 手写防抖节流
+39. 将虚拟 Dom 转化为真实 Dom（类似的递归题-必考）
+40. 实现一个对象的 flatten 方法
+41. 列表转成树形结构
+42. 判断括号字符串是否有效{[(]}
+43. 查找数组公共前缀
+44. 字符串最长的不重复子串
+45. 如何在字符串里面最快找到目标字符串的起始位置 如果是找字符串排列呢
+46. 如何找到数组中第一个没出现的最小正整数 怎么优化
+47. 怎么生成一个长度为n的不重复随机数组 能有几种方法 时间复杂度多少
+
+三面集合问题(社招) 面评 薪资 定级 项目-逻辑题 算法题
+
+1. 为啥离职 中庸之道 客观
+2. 项目 性能优化
+3. 大文件上传
+4. 如何设计性能监控系统
+5. 如何设计前端错误上报系统
+6. 如何设计渲染引擎
+7. 怎么做code review
+8. 为团队做了什么技术贡献
+9. 团队管理相关
+10. 个人性格 优缺点 爱好啥的
+ 
+    深入理解javascript原型和闭包（完结）某大厂系列博客
+    https://www.cnblogs.com/wangfupeng1988/p/3977924.html
+    TS视频系列，阿宝哥
+    https://space.bilibili.com/406258607
+    怒肝 JavaScript 数据结构 杨成功
+    https://mp.weixin.qq.com/s/0BASfkI6J3UqEqERES08HA
 
 【个人收藏】Personal collection
 
@@ -10,15 +130,11 @@ https://github.com/drylint/vuepress-template
 
 维基百科，自由的百科全书
 
-https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F
-
-https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions
-
-https://tool.oschina.net/uploads/apidocs/jquery/regexp.html
-
-https://deerchao.cn/tutorials/regex/regex.htm
-
-https://www.liaoxuefeng.com/wiki/1016959663602400/1017639890281664
+    https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F
+    https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions
+    https://tool.oschina.net/uploads/apidocs/jquery/regexp.html
+    https://deerchao.cn/tutorials/regex/regex.htm
+    https://www.liaoxuefeng.com/wiki/1016959663602400/1017639890281664
 
 ### <div id="class01">已经发布npm的开源模块</div>      
 - [koa2日志监控中间件:koa-logs-middleware](https://github.com/yanlele/koa-logs-middleware)
@@ -35,7 +151,6 @@ https://www.liaoxuefeng.com/wiki/1016959663602400/1017639890281664
 - [基于vue的移动端在线音乐播放器](https://github.com/yanlele/yanle-music)
 - [koa2的学习笔记项目demo](https://github.com/yanlele/koa-study)
 
-
 ### <div id="class04">正在进行的个人项目 - 包含待研究的项目(进行中)</div>
 - [DoraCMS是基于Nodejs+express+mongodb编写的一套内容管理系统:DoraCMS](https://github.com/doramart/DoraCMS)
 - [基于react 高仿csdn博客后端](https://github.com/yanlele/react-blog-server)
@@ -49,74 +164,8 @@ https://www.liaoxuefeng.com/wiki/1016959663602400/1017639890281664
 - [vue+koa2 实现一个简单电商网站](https://github.com/liutaochange/Vue-and-Koa2)
 - [基于vue2 + vue-router + vuex 构建的一个新闻类单页面应用 —— 今日头条（移动端）](https://github.com/uncleLian/vue2-news)
 
-
 ### <div id="class05">源码研究</div>
 - [time-formater:在javascript中显示日期](https://github.com/pengng/time-formater)
-
-
-### <div id="class06">专题笔记归类(简书总结)</div>
-- [01、react简书笔记](./book/01、react专题)
-
-- [02、ES6/7简书笔记](./book/02、ES6&7)
-    - [1、let和const](./book/02、ES6&7/1、let和const/let和const.md)
-    - [2、变量的解构赋值](./book/02、ES6&7/2、变量的解构赋值/变量的解构赋值.md)
-    - [3、字符串的扩展](./book/02、ES6&7/3、字符串的扩展/3、字符串的扩展.md)
-    - [4、数值的扩展和Math对象的扩展](./book/02、ES6&7/4、数值的扩展和Math对象的扩展/4、数值的扩展和Math对象的扩展.md)
-    - [5、数组的扩展](./book/02、ES6&7/5、数组的扩展/README.md)
-    - [6、函数的扩展](./book/02、ES6&7/6、函数的扩展/README.md)
-    - [7、对象的扩展](./book/02、ES6&7/7、对象的扩展/README.md)
-    - [8、Proxy和Reflect](./book/02、ES6&7/8、Proxy和Reflect/README.md)
-    - [9、Set和Map数据结构](./book/02、ES6&7/9、Set和Map数据结构/README.md)
-    - [10、Iterator 和 for...of 循环](./book/02、ES6&7/10、Iterator%20和%20for...of%20循环/README.md)
-    - [11、Generator](./book/02、ES6&7/11、Generator/README.md)
-    - [12、Promise](./book/02、ES6&7/12、Promise对象/README.md)
-    - [13、其他知识点儿的总结](./book/02、ES6&7/13、其他知识点儿的总结)
-    
-- [03、css3专题](./book/03、css3专题)
-    
-- [04、javascript设计模式](./book/04、js设计模式)
-
-- [05、基础知识点总结](./book/05、基础知识点专题)
-
-- [06、canvas总结](./book/06、canvas总结)
-    - [01、canvas初级使用](./book/06、canvas总结/01、canvas初级.md)
-    - [02、基于canvas的小游戏和其他demo](https://github.com/yanlele/canvas-game)
-        
-- [07、leetCode-cn](./book/07、leetCode)
-
-- [08、前端入门和进阶学习笔记，超详细的前端学习图文教程。从零开始学前端，做一个web全栈工程师。](https://github.com/smyhvae/Web)
-
-- [09、学习javascript数据结构与算法](./book/09、学习javascript数据结构与算法)
-        
-- [10、DOM和BOM](./book/10、DOM和BOM)
-
-- [11、深入webpack工程化](./book/11、深入webpack工程化/)
-
-- [12、学习TypeScript](https://github.com/yanlele/TyepScript-learning)
-
-- [13、测试专题](./book/13、测试专题/)
-
-- [14、深入浅出MySQL 数据库开发 优化与管理维护](./book/14、深入浅出MySQL%20数据库开发%20优化与管理维护/)
-
-- [15、Linux相关学习](./book/15、Linux相关知识点)
-
-- [16、前端数据可视化D3.js学习](https://github.com/yanlele/D3.js-learning)
-
-- [17、数据结构与算法专题](./book/17、数据结构与算法专题)
-
-- [18、flutter 基础入门](./book/18、flutter%20基础入门)
-
-- [19、node爬虫](https://github.com/yanlele/node-index-core/tree/master/packages/spider)
-
-- [20、docker&DevOps](./book/20、docker&Devops)
-
-- [21、小程序](./book/21、小程序)
-
-- [22、必须要学好英语](./book/22、必须要学好英语)
-
-- [23、RXJS学习专题](./book/23、RXJS学习专题/23、RXJS学习专题.md)
-
-
 
 ### <div id="class07">通用功能js模块组件</div>
 - 原生组件和公用功能部分
